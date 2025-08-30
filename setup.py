@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="purnamatools",
-    version="0.2.0",
+    version="0.3.0",
     author="Purnama Ridzky Nugraha",
     author_email="purnamanugraha492@gmail.com",
     description="Python package to simplify the initial stages of model building and analysis for data science projects",
