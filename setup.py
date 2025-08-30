@@ -31,5 +31,5 @@ setup(
         "Topic :: Software Development :: Libraries"
     ],
     keywords="data-science machine-learning feature-selection model-analysis",
-    url="https://github.com/username/purnamatools",  # Ganti dengan repo kamu
+    url="https://github.com/PurnamaRidzkyN/purnamatools.git",  
 )
